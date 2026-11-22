@@ -2,7 +2,7 @@
 Excel analysis of 30 MLB teams using histograms, boxplots, scatterplots, descriptive statistics and linear regression to explore the relationship between ERA and wins.
 ## Full Project Report
 
-[View or download my Excel analysis assignment](PK)
+[View or download my Excel analysis assignment](https://github.com/vaibhavsaini1427/excel-data-visualisation/blob/main/BUS140_Team12_Vaibhav_Saini.docx)
 
 ---
 # Excel Data Analysis and Visualisation
